@@ -1,2 +1,1 @@
-cd s
-ss
+console.log("Hellow");
